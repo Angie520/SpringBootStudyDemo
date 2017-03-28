@@ -46,6 +46,7 @@
         </dependency>
 	</dependencies>
 
+    <!-- 构建热部署 -->
 	<build>
 		<plugins>
 			<plugin>
